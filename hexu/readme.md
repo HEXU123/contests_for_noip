@@ -22,4 +22,4 @@
 | contest13| Y   |   Y   | Y|Y|A|A|W
 | contest14 | Y   |   Y   | Y|A|W|X|X
 | contest15 | Y   |   Y   | Y|Y|A|X|X
-
+| contest15 | Y   |   Y   | A|Y|X|X|X
